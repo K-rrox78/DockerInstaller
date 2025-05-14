@@ -12,12 +12,12 @@ This script automates the installation of Docker Engine on Debian-based systems.
 
 1. Make the script executable:
 ```bash
-chmod +x install_docker.sh
+chmod +x DockerInstaller.sh
 ```
 
 2. Run the script with sudo:
 ```bash
-sudo ./install_docker.sh
+sudo ./DockerInstaller.sh
 ```
 
 ## What the script does
